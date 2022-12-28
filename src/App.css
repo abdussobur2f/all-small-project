@@ -1,0 +1,58 @@
+ /* .on{
+ margin: auto;
+ margin-top: 10%;
+  width: 100%;
+  
+ }
+
+ button{
+    cursor: pointer;
+ }
+
+ .he{
+ 
+   margin-top: 10%;
+ }
+
+ .main{
+  background-color: aqua;
+  display: flex;
+  margin: 10px;
+ }
+ /* .container{
+  background-color: antiquewhite;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+ } */
+ .hero{
+  margin-top: 10px;
+ }
+ input{
+  width: 100%;
+  padding: 2rem 0;
+  margin: 2rem 0;
+
+ }
+
+ button{
+  padding: 1rem 2rem;
+ } 
+/* 
+  img{
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+ } */
+
+ /* img{
+  object-fit: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+ } */
+ 
